@@ -1,3 +1,8 @@
 
 .idea/
 *.iml
+.gradle/
+build/
+codingBat-gradle/gradle/
+codingBat-gradle/gradlew
+codingBat-gradle/gradlew.bat
