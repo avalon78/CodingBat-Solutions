@@ -1,4 +1,4 @@
-package codingBat.solutions;
+package codingBat.solutions.warmup1;
 
 public class SleepIn {
 
